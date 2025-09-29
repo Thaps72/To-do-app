@@ -5,6 +5,9 @@ It creates a grocery list dynamically from an array and also includes a button t
 
 ---
 
+## Live Link
+   https://thaps72.github.io/To-do-app/
+
 ## 📌 Features
 - Displays a grocery list (`Milk, Sugar, Bread, ...`) dynamically using JavaScript.
 - Uses **forEach** loop to create `<li>` elements from an array.
